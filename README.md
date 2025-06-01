@@ -78,10 +78,7 @@ python app.py
 
 ---
 
-## Screenshots
-_Add screenshots here to showcase the UI and features._
 
----
 
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
